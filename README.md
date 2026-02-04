@@ -34,7 +34,7 @@ Registro de atendimentos
 Relatórios financeiros simples
 Painel administrativo
 
- TECNOLOGIAS SUGERIDAS (ALINHADAS COM SEU PERFIL)
+ TECNOLOGIAS:
 
 Backend: Python (Flask ou FastAPI)
 Banco de dados: SQLite ou PostgreSQL
